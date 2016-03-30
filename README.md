@@ -23,7 +23,7 @@ Desenvolver projetos de tecnologia para web desde a concepção até o acompanha
 # Teste Prático - Etapa 01
 Neste teste prático serão avaliados raciocínio lógico, criatividade, conhecimento técnico e interpretação. Deve ser utilizado .net framework 4.5 ou superior.
 
-Esta etapa deve ser entregue via pull request neste repositório. 
+Esta etapa deve ser entregue via pull request. O prazo sugerido para entrega é de até 3 dias a partir do nosso contato. Caso seja entregue após o prazo, se a vaga ainda estiver aberta, você poderá prosseguir normalmente no processo. Note que, quanto antes entregar, maiores serão suas chances de ser avaliado antes da vaga ser preenchida.
 
 Selecionaremos os melhores trabalhos para prosseguir no processo de seleção. Boa sorte!
 
