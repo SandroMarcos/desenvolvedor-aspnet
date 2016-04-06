@@ -33,3 +33,11 @@ Selecionaremos os melhores trabalhos para prosseguir no processo de seleção. B
 - Administradores podem cadastrar Skills. Campos mínimos: Nome.
 - Administradores podem atribuir/relacionar usuários (de ambos os tipos) com skills.
 - Deve existir uma listagem, na área restrita para administradores, onde seja possível visualizar usuários e suas skills.
+-
+
+O banco de dados utilzado é o SQLite, que está localizado na pasta App_Data, o banco está vazio, ao realizar o primeiro acesso, é necessário criar um usuário, este primeiro usuário já será um usuário Administrador, a partir dos próximos o usuário será criado como não administrador.
+
+O sistema foi feito em duas camadas, utilizando o conceito de DDD.
+Na primeira camada que é o nosso domínio, utilizei o ORM NHibernate para o mapeamento, e também utilizamos o NInject para a Injeção de dependência.
+Na segunda camada, que é a parte Web, a comunicação entre server-client, a responsabilidade ficou por conta do AngularJS e o CSS bootstrap.
+
